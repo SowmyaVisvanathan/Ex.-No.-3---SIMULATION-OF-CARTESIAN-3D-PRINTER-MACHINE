@@ -60,8 +60,10 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: SOWMYA V
+### Register Number: 212222110045
 
 ## Result: 
+![image](https://github.com/SowmyaVisvanathan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119475775/96fe1830-7c48-4b38-943a-a8d7b2479064)
+
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
